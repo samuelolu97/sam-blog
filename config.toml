@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Sam's Blog"
-theme = "dream"
+theme = "hugo-theme-dream"
 
 # copyright = ""
 
